@@ -29,4 +29,20 @@ nav ul li a:hover {
   align-items: center;
   opacity: 0.9;
   height: 515px;
+}
+.banner .inner-banner {
+  padding: 3rem;
+  background-color: #FF9551;
+  opacity: 0.9;
+  border-radius: 25px;
+  text-align: center;
+}
+.banner .inner-banner h1 {
+  font-size: 3rem;
+  font-weight: bold;
+  color: #2e7992;
+}
+.banner .inner-banner h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
 }/*# sourceMappingURL=style.css.map */
