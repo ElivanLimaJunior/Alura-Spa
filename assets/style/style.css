@@ -151,4 +151,16 @@ button:hover {
 button:active {
   position: relative;
   top: 1px;
+}
+
+footer {
+  text-align: center;
+  font-size: 1.5rem;
+  border-top: 2px solid #2e7992;
+  margin-top: 1rem;
+  padding: 1.2rem;
+  background: linear-gradient(to left, #2e7992, #237a6a, #237a6a, #237a6a, #2e7992);
+}
+footer i {
+  color: red;
 }/*# sourceMappingURL=style.css.map */
